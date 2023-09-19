@@ -7,6 +7,8 @@ Todos os dados dos catálogos como título, descrição, capa, foto de backgroun
 
 Logo gerada através do https://www.fontmeme.com/
 
+Aplicação online - https://sanflix-eight.vercel.app/
+
 **Funcionalidades:**
 
  - Spinning Loading: Efeito ao trazer os dados da API.
