@@ -1,10 +1,4 @@
-**Instalação:**
-
-1º > npm -i 
-
-2º > npm start
-
-
+![loading](https://1drv.ms/i/s!AqjSjM7mUTW4gogoMJE8aPq01SH_kw?e=BKmKF6)
 **Sobre o projeto:**
 
 Criar uma interface semelhante ao Netflix como forma de aprendizagem e treinar as skills perante o uso de JavaScript, React, HTML e CSS. Durante a construção deste projeto foi usado este vídeo como material de apoio: https://www.youtube.com/watch?v=tBweoUiMsDg
@@ -44,6 +38,6 @@ Logo gerada através do https://www.fontmeme.com/
 
 **Telas do Projeto:**
 
-![loading](https://1drv.ms/i/s!AqjSjM7mUTW4gogoMJE8aPq01SH_kw?e=BKmKF6)
+
 ![capa](https://1drv.ms/i/s!AqjSjM7mUTW4gogqoqhyC5V7ZYSDWg?e=PaPCne)
 ![originais](https://1drv.ms/i/s!AqjSjM7mUTW4gogpO6rAsNBTG-FB-A?e=ORzv5p)
