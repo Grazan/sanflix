@@ -1,4 +1,4 @@
-
+![sanflix](https://github.com/Grazan/sanflix/assets/90648893/75167053-36cd-42bd-aa30-0481ad0e8018)
 **Sobre o projeto:**
 
 Criar uma interface semelhante ao Netflix como forma de aprendizagem e treinar as skills perante o uso de JavaScript, React, HTML e CSS. Durante a construção deste projeto foi usado este vídeo como material de apoio: https://www.youtube.com/watch?v=tBweoUiMsDg
