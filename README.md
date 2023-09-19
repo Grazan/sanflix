@@ -15,6 +15,8 @@ Logo gerada através do https://www.fontmeme.com/
  - Efeito Menu: Criar um efeito no background do menu conforme o scroll da tela do usuário.*
  - Listagem Carrossel: Apresentar botões de controle para manipular a visualização dos itens da sessão.
 
+![capa](https://github.com/Grazan/sanflix/assets/90648893/f7311030-c4c2-454c-80d1-9456935228e4)
+
 ## ⚙️ *Linguagem, pacotes e ferramentas utilizadas:* ##
 
 - React
