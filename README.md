@@ -1,4 +1,4 @@
-
+![sanflix](https://github.com/Grazan/sanflix/assets/90648893/75167053-36cd-42bd-aa30-0481ad0e8018)
 **Sobre o projeto:**
 
 Criar uma interface semelhante ao Netflix como forma de aprendizagem e treinar as skills perante o uso de JavaScript, React, HTML e CSS. Durante a construção deste projeto foi usado este vídeo como material de apoio: https://www.youtube.com/watch?v=tBweoUiMsDg
@@ -15,6 +15,8 @@ Logo gerada através do https://www.fontmeme.com/
  - Efeito Menu: Criar um efeito no background do menu conforme o scroll da tela do usuário.*
  - Listagem Carrossel: Apresentar botões de controle para manipular a visualização dos itens da sessão.
 
+![capa](https://github.com/Grazan/sanflix/assets/90648893/f7311030-c4c2-454c-80d1-9456935228e4)
+
 ## ⚙️ *Linguagem, pacotes e ferramentas utilizadas:* ##
 
 - React
@@ -22,6 +24,9 @@ Logo gerada através do https://www.fontmeme.com/
 - HTML
 - CSS
 - Fetch
+
+![lista](https://github.com/Grazan/sanflix/assets/90648893/7c904295-982e-4503-8fe3-d7d01bdbd405)
+
 
 ## 📋 *Especificações:*
 
