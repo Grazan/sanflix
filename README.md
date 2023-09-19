@@ -25,6 +25,9 @@ Logo gerada através do https://www.fontmeme.com/
 - CSS
 - Fetch
 
+![lista](https://github.com/Grazan/sanflix/assets/90648893/7c904295-982e-4503-8fe3-d7d01bdbd405)
+
+
 ## 📋 *Especificações:*
 
 **Back End**
